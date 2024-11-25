@@ -1,0 +1,1 @@
+Classification models made with Sklearn, using Wine Recognition dataset, you can view more about the dataset on https://www.kaggle.com/datasets/tawfikelmetwally/wine-dataset. See this notebook on kaggle too: https://www.kaggle.com/code/marcosycaro/winerecognition
